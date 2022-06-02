@@ -58,3 +58,4 @@ cd functions
 yarn build
 yarn deploy
 ```
+# yevhen-test-task
